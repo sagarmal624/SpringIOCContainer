@@ -15,6 +15,6 @@ There are two types of IoC containers. They are:
 
 Difference between Bean Factory and Application Context.
 
-http://res.cloudinary.com/sagarandcompany/image/upload/v1514204930/applicationContext_m9kmor.png
-
+![alt text](http://res.cloudinary.com/sagarandcompany/image/upload/v1514204930/applicationContext_m9kmor.png
+)
 
